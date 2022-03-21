@@ -11,4 +11,3 @@ Probably the most up-to-date website on Tolkien's language constructions, includ
 A somewhat dated, but still useful website -- interesting articles on the lesser-developed languages (Valarin, Adûnaic, Black Speech...)
 [https://folk.uib.no/hnohf/](https://folk.uib.no/hnohf/)
 
-# elvish.org
