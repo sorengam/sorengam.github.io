@@ -2,7 +2,7 @@
 This website is under construction.
 
 
-#### Research
+#### [Research](https://sorengam.github.io/Research)
 
 #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
@@ -11,4 +11,7 @@ This website is under construction.
 #### Other stuff:
 
 ##### [Tolkien](https://sorengam.github.io/tolkien)
+
+##### [Matematisk Ordliste] (https://matematikkradet.no/ordliste/)
+This is the Norwegian Language Council's dictionary for mathematical terms. I contributed about 250 translations for terms relating to algebraic geometry.
 

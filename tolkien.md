@@ -3,11 +3,11 @@ One of my main Tolkien-related interests is Tolkienian linguistics.
 
 ## Some resources:
 
-# Eldamo:
-Probably the most up-to-date website on Tolkien's language constructions, including several (well-founded) neologisms.
+### Eldamo:
+Probably the most up-to-date website on Tolkien's language constructions, including several (well-founded and extensively debated) neologisms.
 [eldamo.org](eldamo.org)
 
-# Ardalambion
+### Ardalambion
 A somewhat dated, but still useful website -- interesting articles on the lesser-developed languages (Valarin, Adûnaic, Black Speech...)
 [https://folk.uib.no/hnohf/](https://folk.uib.no/hnohf/)
 
