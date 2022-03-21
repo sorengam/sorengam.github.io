@@ -1,4 +1,4 @@
-##Søren Gammelgaard's personal website
+## Søren Gammelgaard's personal website
 
 I'm a DPhil student in mathematics at the University of Oxford.
 
