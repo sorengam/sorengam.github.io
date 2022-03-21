@@ -1,6 +1,6 @@
 # Søren Gammelgaard's personal website
 
-## DPhil student, University of Oxford
+### DPhil student, University of Oxford
 
 This website is under construction.
 
@@ -15,5 +15,3 @@ This website is under construction.
 
 ##### [Tolkien](https://www.sorengam.github.io/tolkien)
 
-
-.
