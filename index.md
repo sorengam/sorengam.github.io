@@ -1,5 +1,6 @@
-## Søren Gammelgaard's personal website
-### DPhil student, University of Oxford
+# Søren Gammelgaard's personal website
+
+## DPhil student, University of Oxford
 
 This website is under construction.
 
