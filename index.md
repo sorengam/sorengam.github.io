@@ -6,9 +6,9 @@ This website is under construction.
 
 #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
-#### [CV](https://www.sorengam.github.io/CV)
+#### [CV](https://sorengam.github.io/CV)
 
 #### Other stuff:
 
-##### [Tolkien](https://www.sorengam.github.io/tolkien)
+##### [Tolkien](https://sorengam.github.io/tolkien)
 
