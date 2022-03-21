@@ -10,4 +10,4 @@ An *affine* variety is the set of points in of polynomial equations in
 
 
 #### More technical explanation of my current research:
-Can be found [Here](https://sorengam.github.io/research_detailed) (Link not working, I don't know why)
+Can be found [Here](https://sorengam.github.io/research_detailed).
