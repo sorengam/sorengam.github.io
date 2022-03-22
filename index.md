@@ -11,7 +11,7 @@ I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and 
 
 #### [CV](https://sorengam.github.io/CV)
 
-#### Other stuff:
+#### Other things:
 
 ##### [Tolkien](https://sorengam.github.io/tolkien)
 
