@@ -5,6 +5,8 @@ I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and 
 
 #### [Research](https://sorengam.github.io/research)
 
+#### [Publications](https://sorengam.github.io/papers)
+
 #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
 #### [CV](https://sorengam.github.io/CV)

@@ -1,4 +1,4 @@
-### About my research:
+## About my research:
 
 I work in the branch of mathematics known as *algebraic geometry*.
 This is a really interesting (and fun!) field, with connections to many other parts of maths and physics.

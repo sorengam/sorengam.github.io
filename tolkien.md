@@ -1,7 +1,9 @@
+## Tolkien
+
 I was for two years the secretary of [*Taruithorn*](https://users.ox.ac.uk/~tolksoc/), the Oxford Tolkien Society.
 One of my main Tolkien-related interests is Tolkienian linguistics.
 
-## Some resources:
+### Some resources:
 
 ### Eldamo:
 Probably the most up-to-date website on Tolkien's language constructions, including several (well-founded and extensively debated) neologisms.
