@@ -3,6 +3,8 @@ I'm a DPhil student in mathematics in Oxford, primarily working in algebraic geo
 
 I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and Hodge theory.
 
+This website is under construction.
+
 #### [Research](https://sorengam.github.io/research)
 
 #### [Publications](https://sorengam.github.io/papers)
