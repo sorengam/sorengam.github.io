@@ -1,5 +1,5 @@
 
-I'm a DPhil student in mathematics in Oxford.
+I'm a DPhil student in mathematics in Oxford, primarily working in algebraic geometry.
 
 I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and Hodge theory.
 
