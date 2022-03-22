@@ -7,7 +7,7 @@ Here are some useful resources:
 
 ### Eldamo:
 Probably the most up-to-date website on Tolkien's language constructions, including several (well-founded and extensively debated) neologisms.
-[eldamo.org](eldamo.org)
+[https://eldamo.org](eldamo.org)
 
 ### Ardalambion
 A somewhat dated, but still useful website -- interesting articles on the lesser-developed languages (Valarin, Adûnaic, Black Speech...)
