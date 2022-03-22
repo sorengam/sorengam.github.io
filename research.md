@@ -15,5 +15,5 @@ Currently, I'm more interested in varieties that are quotients of the plane by s
 This research is most of my DPhil work.
 
 
-#### A more technical explanation of my current research:
-Can be found [here](https://sorengam.github.io/research_detailed).
+##### A more technical explanation of my current research
+can be found [here](https://sorengam.github.io/research_detailed).
