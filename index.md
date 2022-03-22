@@ -1,6 +1,7 @@
 
-This website is under construction.
+I'm a DPhil student in mathematics in Oxford.
 
+I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and Hodge theory.
 
 #### [Research](https://sorengam.github.io/research)
 
