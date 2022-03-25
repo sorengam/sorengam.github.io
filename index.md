@@ -9,6 +9,8 @@ This website is under construction.
 
 #### [Publications](https://sorengam.github.io/papers)
 
+#### [Teaching](teaching)
+
 #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
 #### [CV](https://sorengam.github.io/CV)
