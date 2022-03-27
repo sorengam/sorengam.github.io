@@ -7,7 +7,7 @@ In the autumn of 2020, I started to run a reading group on scheme theory for DPh
 The group ran into the spring of 2021, and concluded with an introduction to Hodge theory.
 I gave some of the talks, and the slides can be found here.
 
-- Curves
-- Computing cohomology
-- Hodge theory 1
-- Hodge theory 2
+- [Curves](teaching/curves)
+- [Computing cohomology](teaching/cohomology)
+- [Hodge theory 1](teaching/hodge1)
+- [Hodge theory 2](teaching/hodge2)
