@@ -1,6 +1,6 @@
 ## Teaching
 
-I taught several courses as a tutor and teaching assistant, both at the University of Oslo and the Univeristy of Oxford.
+I taught several courses as a tutor and teaching assistant, both at the University of Oslo and the University of Oxford.
 
 #### Reading groups
 In the autumn of 2020, I started to run a reading group on scheme theory for DPhil students in Oxford.
