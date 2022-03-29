@@ -17,3 +17,7 @@ This research forms most of my DPhil work.
 
 ##### A more technical explanation of my current research
 can be found [here](https://sorengam.github.io/research_detailed).
+
+#### Unfinished projects, notes &c:
+
+In 2018, I found a few results involving cubic hypersurfaces, Grothendieck rings, and Hodge numbers. [Here](researchGrotRing)'s a short note with some of the ideas.
