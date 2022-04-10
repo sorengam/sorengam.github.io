@@ -11,9 +11,11 @@ This website is under construction.
 
 #### [Teaching](teaching)
 
+#### [Talks](talks)
+
 #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
-#### [CV](https://sorengam.github.io/CV)
+#### [CV](CV)
 
 #### Other things:
 
