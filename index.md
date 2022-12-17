@@ -1,9 +1,10 @@
 
-I'm a DPhil student in mathematics in Oxford, primarily working in algebraic geometry.
+I'm a mathematician working at the [Scuola Internazionale Superiore di Studi Avanzati](sissa.it) under a SISSA Mathematical Fellowship,
+primarily working in algebraic geometry.
 
 I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and Hodge theory.
 
-This website is under construction.
+Before arriving in Trieste, I completed a DPhil in Mathematics at the University of Oxford.
 
 #### [Research](https://sorengam.github.io/research)
 
@@ -13,7 +14,7 @@ This website is under construction.
 
 #### [Talks](talks)
 
-#### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
+--- #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
 
 #### [CV](CV)
 
