@@ -23,5 +23,5 @@ Before arriving in Trieste, I completed a DPhil in Mathematics at the University
 ##### [Tolkien](https://sorengam.github.io/tolkien)
 
 ##### [Matematisk Ordliste](https://matematikkradet.no/ordliste/)
-This is the Norwegian Language Council's dictionary for mathematical terms. I contributed about 250 translations for terms relating to algebraic geometry.
+This is the Norwegian Language Council's dictionary for mathematical terms (written as a collaboration between the Norwegian Mathematics Council, the University of Oslo, the Norwegian University of Science and Technology, and the Univeristy of Agder. I contributed about 250 translations for terms relating to algebraic geometry.
 
