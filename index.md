@@ -14,8 +14,6 @@ Before arriving in Trieste, I completed a DPhil in Mathematics at the University
 
 #### [Talks](talks)
 
---- #### [Personal website at the Mathematical Institute in Oxford](https://www.maths.ox.ac.uk/people/soren.gammelgaard)
-
 #### [CV](CV)
 
 #### Other things:
