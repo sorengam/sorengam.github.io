@@ -1,6 +1,6 @@
 ### Publications
 
-I hae been a coauthor on two scientific papers.
+I hae been a coauthor on two published scientific papers.
 
 Both were co-written with Ádám Gyenge, Alastair Craw, and Balázs Szendrői.
 
@@ -10,5 +10,8 @@ Both were co-written with Ádám Gyenge, Alastair Craw, and Balázs Szendrői.
 
 ### Preprints:
 
-1. *Quiver Varieties and Framed Sheaves on Compactified Kleinian Singularities. Available online [here](https://arxiv.org/pdf/2306.09054).
-This is largely a cleaned-up version of some results from my DPhil thesis.
+1. *Quiver Varieties and Framed Sheaves on Compactified Kleinian Singularities. Available online [here](https://arxiv.org/pdf/2306.09054), submitted.
+This is largely a cleaned-up version of some results from my DPhil thesis, giving a set-theoretical bijection between (the closed points of) certain Nakajima quiver varieties and sets of framed sheaves on stacks compactifying Kleinian singularities.
+
+2. *Moduli spaces of framed sheaves on compactified Kleinian singularities. Available online [here]\href{https://arxiv.org/abs/2312.05960}{here}}}.
+This preprint constructs the spaces of framed sheaves mentioned in the previous preprint as quasiprojective schemes.
