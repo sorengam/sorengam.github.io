@@ -1,0 +1,153 @@
+
+\documentclass[11pt,a4paper ]{article}        % possible options include font size ('10pt', '
+\usepackage[utf8]{inputenc} 
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\newcommand{\C}{\mathbb{C}}    						% Complex numbers
+\newcommand{\Z}{\mathbb{Z}}    						% Integers
+\renewcommand{\P}{\mathbb{P}}  						% Projective space
+\newcommand{\Hilb}{\operatorname{Hilb}}	
+\usepackage{todonotes}
+\usepackage{setspace}
+\usepackage{natbib}
+\setlength{\bibsep}{0pt plus 0.3ex}
+% moderncv themes
+%\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+%\moderncvcolor{green}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+%\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\author{Søren Gammelgaard}
+\title{About my research}                               % optional, remove / comment the line if not wanted
+%\address{Holywell Manor, Manor Road}{OX1 3UH Oxford}{United Kingdom}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+%\phone[mobile]{+44 0 759 109 4045}                   % optional, remove / comment the line if not                      % optional, remove / comment the line if not wanted
+%\email{gammelgaard@maths.ox.ac.uk}                               % optional, remove / comment the line 
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+%	\recipient{FSMP Programme}{Paris} FIX THIS SHIZZLE
+%	\date{\today}
+%	\opening{Dear Committee,}
+%	\closing{Thank you very much for your time,\newline yours sincerely,}
+%	%\enclosure[Adjunto]{CV}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+%%	\makelettertitle
+\maketitle
+
+
+%Dear [WHOEVER]\todo{for where this is going}
+
+\section*{Current research}
+%	There has recently been much interest in Nakajima quiver varieties. They provide interesting examples of hyperkähler manifolds, as well as global
+%	 Their geometric properties are fairly well understood, for instance any Nakajima quiver variety has symplectic singularities (\cite{BelSche}). 
+	My current research has focused on the connections between moduli spaces attached to singularities on the form $\C^n/\Gamma$, with $\Gamma\subset SL_n(\C)$ a finite group, and quiver varieties.
+	
+	Taking any finite quiver with some additional data, one can construct a variety called a \emph{Nakajima quiver variety}. Such varieties have good geometric properties -- they are always irreducible, when smooth, they are hyperkähler, and when singular, their singularities are symplectic (\cite{BelSche}).
+	
+%Such Nakajima quiver varieties 
+My DPhil thesis investigated the relationship between such quiver varieties and various moduli spaces associated to the action of $ \Gamma $ on $ \C^n $ for $n=2$. As part of the thesis, I was a co-author on two papers in this subject (\cite{CGGS}, \cite{CGGS2})\footnote{A small flaw in these papers was discovered by Yehao Zhou. A fix for the first, and partially for the second, was found by Craw and Yamagishi in \cite{CrawYamagishi}.}.
+In these papers, we construct a \emph{McKay quiver} from $\Gamma$, and build our Nakajima quiver varieties from this quiver. The construction of these quiver varieties depends crucially on a stability parameter, and the main line of investigation in these papers concern what happens when this parameter moves into particular rays in its wall-and-chamber structure. 
+
+%The two papers unite ideas and techniques from different areas of mathematics - they include moduli spaces of modules of associative algebras, representation theory of quivers, and a small bit of symplectic geometry, in addition to the main algebraic-geometric ideas.
+
+In the first, we showed that Hilbert schemes of points on the Kleinian singularities $ \C^2/\Gamma $ can be constructed as quiver varieties, while in the second, we investigate `equivariant Quot schemes' associated to the action of $ \Gamma $ on $ \C^2 $, and show that in many cases, these too are Nakajima quiver varieties.%\footnote{There was a subtle flaw in a lemma used for both these papers, this flaw has very recently been corrected by Craw and Yamagishi in \cite{CrawYamagishi}}
+
+\subsection*{Higher-rank quiver varieties}
+The definition of these Nakajima quiver varieties also depends on a positive integral \emph{rank} parameter, which we in both these papers set equal to 1. It is a natural question to see what happens when this rank is a larger integer. I started to investigate this in my thesis, and I have since written two preprints (\cite{GG2, GG1}) in this area, both of which are submitted.
+
+In these preprints, I consider such `higher-rank' quiver varieties defined with a stability parameter lying in a specific ray in the wall-and-chamber structure, similar to the one used in \cite{CGGS}. It turns out that the resulting quiver varieties can probably be understood as moduli spaces of framed sheaves on a particular stacky compactification of the singularity $ \C^2/\Gamma $. This compactification is projective, and luckily tools for working with moduli spaces of framed sheaves on projective stacks have been developed by Bruzzo and Sala (see e.g. \cite{BruzzoSala}). The first preprint shows that there is a canonical bijection of closed points between the appropriate quiver variety and the set of such framed sheaves, while the second establishes the existence of the moduli space (without using any quiver-theoretic techniques). It is natural to expect that there is an isomorphism between the moduli space and the quiver variety, but so far I have been unable to construct one.% -- ongoing joint work with Alastair Craw may provide a solution.
+
+ A problem that appears when working with nongeneric stability parameters, is that the quiver variety is not \emph{per se} a fine moduli space. To handle this in our two joint papers, we have made extensive use of the technique of \emph{cornering} (see \cite[Remark 3.1]{CIK}), which provides interpretations of Nakajima quiver varieties as fine moduli spaces. This technique remains viable when increasing the rank, and can be used to investigate many faces in the wall-and-chamber structure.
+
+My research into such `higher-rank' Nakajima quiver varieties has continued. In a recently completed preprint \cite{GamGye}, coauthored with \'Ad\'am Gyenge, we find interpretations of a large class of such quiver varieties as moduli spaces of sheaves on certain \emph{noncommutative} projective varieties closely related to the action of $\Gamma$ on $\C^2$. %Some results are already known:  
+This work generalised several earlier results. In \cite{VaVa} it is shown that using a generic stability parameter in one chamber gives moduli spaces of framed $ \Gamma $-equivariant sheaves on $ \P^2 $, and this is one of the special cases in \'Ad'am and I's construction. We also generalise (partially) \cite{BGK}, \cite{CGGS2}, \cite{Paper1}.
+
+Other "higher-rank" quiver varieties have been investigated: in \cite{NakaALE}, Nakajima characterises the quiver variety given when choosing a stability parameter from another chamber, finding a description similar to that appearing in my own work. 
+Finally, Nakajima has also given a characterisation of the variety given by choosing the zero parameter in \cite{Nak02}. 
+%Work on these varieties could also tie in with a conjecture of Bruzzo, Sala, Szabo and Pedrini (\cite[Conjecture 4.14]{BPSSz}), that moduli spaces of certain framed sheaves on a stacky compactification of the minimal resolution of $ \C^2/\Gamma $ are isomorphic to `higher-rank' Nakajima quiver varieties. (Their conjecture is only stated for the case where $ \Gamma $ is a cyclic group, but I should like to extend it to other cases of $ \Gamma $ as well.)
+%In a related project with Alastair Craw, we aim to more closely understand the geometry of such quiver varieties; for instance determining when they are reduced.
+
+Finally,  our description of $\Hilb^n(\C^2/\Gamma)$ has also led to an ongoing project with Pedro Henrique dos Santos, concerning quiver descriptions of \emph{nested} punctual Hilbert schemes of points on canonical surface singularities. 
+
+\subsection*{Singular threefolds}
+In joint (ongoing) work with Michele Graffeo, we investigate some singular \emph{threefolds}. These three-dimensional singularities are defined similarly to the surface singularities mentioned above, namely as $\C^3/\Gamma$, with $\Gamma\subset SL_3(\C)$ a finite group. Very recent work of Yamagishi (\cite{Yamagishi}), proves what has been known as the \emph{Craw-Ishii conjecture}: Every projective crepant resolution of $\C^3/\Gamma$ is isomorphic to a moduli space $M_\theta $ of $\theta$-stable $\Gamma$-constellations for a generic \emph{stability parameter} $\theta$. 
+A $\Gamma$-constellation can be thought of as a quiver representation, so this provides a powerful tool for using quiver techniques to understand the birational geometry of these singular threefolds. %The Craw-Ishii conjecture was already known for the case of abelian $\Gamma$ (\cite{CrawIshii}), %and it was also known that every $M_\theta$ was a projective crepant
+
+Our project is focusing on the two 'sporadic' simple groups $H_{168}, H_{60}$ of orders 168 and 60 respectively. These are the only non-abelian finite simple subgroups of $\mathrm{SL}_3$. For the case $\Gamma = H_{168}$, we have so far determined three different crepant resolutions of $\C^2/\Gamma$, and we are currently trying to find their associated stability parameters, while understanding the birational transformations the resolutions undergo when the parameter crosses a wall in its wall-and-chamber structure.
+%\section*{Proposed research}
+\subsection*{Threefolds}
+I am continuing research on the relations between Hilbert schemes, quiver varieties, and singular schemes. Especially this will involve extending my current work on singular threefolds to cover other finite subgroups of $\mathrm{SL}_3(\C)$. These appear in four different infinite series, one of which is abelian, and eight exceptional subgroups - including the two mentioned in the previous section. 
+
+I propose to work towards finding and classifying, for each series, all the possible crepant resolutions of such singular threefolds as moduli spaces $M_\theta$. This is now within reach due to Yamagishi's mentioned result: to find all possible resolutions, one can start by determining the chambers in the parameter space for $\theta$, and after obtaining a solid understanding of the flops obtained by wall-crossing, it should hopefully be possible to explicitly describe every crepant resolution. For instance, I would like to determine the number of crepant resolutions up to isomorphism.  In addition, this would also lead to a better understanding of the moduli spaces obtained with nongeneric stability parameters. 
+
+
+There are already results on this, for some classes of singularities: de Celis and Sekiya found (\cite{deCelisSekiya}) two(!) ways of constructing every possible crepant resolution when $\Gamma$ is a polyhedral subgroup of $\mathrm{SO}_3\subset \mathrm{SL}_3$. In addition, when the singularity is toric compound Du Val, Yusuke Nakajima has very recently found a combinatorial description of the chambers using graphs on the 2-torus (\cite{nakajimaYusuke}).
+
+One toolbox that could be useful here is that of noncommutative crepant resolutions (or NCCRs) -- for instance, it is known that any NCCR of a normal Gorenstein singularity $ R $ of dimension 3 can be presented using a quiver (\cite[Lemma 3.1]{CrawPaper}), and the quiver constructed can be used to give a crepant resolution of $ R $ (\cite[Theorem 3.7]{CrawPaper}, \cite[Theorem 6.3.1]{vdBergh}). One natural question connected to this, is whether the noncommutative schemes that I am constructing with \'A. Gyenge are NCCRs -- and, if so, whether our definitions can be adapted to a three-dimensional setting.
+
+%For instance, when considering a Nakajima quiver variety $ \mathfrak M $ constructed frset so that $ \mathfrak M$ is isomorphic to the symmetric power of a Kleinian singularity, changing the stability parameter will quickly lead to quiver varieties for which no good description exists yet (at least not to my knowledge). Might these varieties be describable using NCCRs?
+%
+
+Much has been done on crepant resolutions of threefolds before Yamagishi's result: Bridgeland, King, and Reid showed \cite{BKR} that the "equivariant Hilbert scheme" $\Gamma-\Hilb(\C^3)$ was in every case a crepant resolution of $\C^3/\Gamma$,  Ito found in \cite{Itotrihedral, ItoOthers} a crepant resolution for every singularity type in the three nonabelian series, and together with Ishii and de Celis proved that the "iterated equivariant Hilbert scheme" $\Gamma/N-\Hilb(N-\Hilb(\C^3))$ is always a crepant resolution of $\C^3/\Gamma$, also determining the stability parameter $\theta$ to describe this moduli space as a space $M_\theta$. 
+
+Eventually I would like to extend these investigations into three-dimensional singularities to pursue descriptions of the schemes $\Hilb^n(\C^3/\Gamma)$ and related spaces - just as I have done for $\Hilb^n(\C^2/\Gamma)$ using quiver varieties. Ideally, this should be done by adapting Ito and Nakajima's construction in \cite{ItoNakajima} for the equivariant Hilbert scheme $\Gamma-\Hilb(\C^3)$.%,stability parameter appearing in  into a specific ray. 
+
+\subsection*{Derived categories}
+I would also like to investigate the McKay correspondence (in both dimension 2 and 3) on the level of derived categories. Let $\Gamma\subset \mathrm{SL}_3(\C)$ be finite. In \cite{BKR}, it is shown that there is an equivalence between the derived category of $ \Gamma-\Hilb(\C^3)$ and the $\Gamma$-equivariant derived category of $\C^3$, the same result was proven in dimension $2$ by Kapranov and Vasserot (\cite{KV}).
+In addition, Maiorana has shown in two preprints (\cite{maiorana1, maiorana2}) that on smooth projective surfaces with full strong exceptional sequences, it is possible to describe the moduli spaces of framed sheaves using quivers.
+
+I believe that there is a related derived equivalence lurking: Namely, the derived category of representations of the framed McKay quiver associated to $\Gamma$ should be equivalent to the derived category of $\Gamma$-equivariant framed sheaves on $\P^2$, and this equivalence should be given by tilting at a torsion pair $(\mathcal{T}, \mathcal{F})$, with $\mathcal{F}$ the category of $\theta$-stable sheaves. So far I have been unable to prove this, but there are many indications toward it holding.
+
+\subsection*{Applications to K3 surfaces}
+
+I finally mention another research direction I'd like to pursue:
+There are recent results pointing to a connection of quiver varieties to Hilbert schemes of K3 surfaces and related varieties:
+In \cite{deHor}, DeHority uses quiver varieties similar to those I've been researching to understand the cohomology of punctual Hilbert schemes on certain K3 surfaces, before extending his results to the cohomology of moduli spaces of rank 1 torsion free sheaves on the K3 surface.
+
+On the other hand, Yamagishi has shown (see \cite{Yamagishi}) that the Fano variety of lines on certain singular cubic fourfolds has the same type of singularities as the Hilbert square of a surface with all singularities Kleinian. However, the Fano variety of lines on a \emph{smooth} cubic fourfold is famously deformation equivalent to the Hilbert square of a K3 surface.
+
+We constructed (in \cite{CGGS}) the Hilbert square of a Kleinian singularity as a quiver variety with a nongeneric stability parameter. But the quiver varieties considered by DeHority are constructed with a \emph{generic} parameter. One could guess that this is indicating a deeper connection between Hilbert schemes of K3 surfaces and quiver varieties. For instance, can the "degeneration" of the Hilbert square of a K3 surface to the Fano scheme of lines on a singular cubic fourfold be interpreted as parallelling the "degeneration" of a generic stability parameter to a specialised stability parameter (for those quiver varieties that are punctual Hilbert schemes of $ \C^2/\Gamma $)? 
+
+%\subsection*{Singular varieties of dimension $\ge 3 $}
+%More tentatively, it would be interesting to see whether the techniques we have developed could be extended to cover higher-dimensional singularities of the type $ V\Gamma $, for $\Gamma\in \operatorname{SL}(V)$, with $V$ a vector space. One can in this case form quiver varieties much as in the 2-dimensional case. There has been some research on these quiver varieties, especially in dimension 3 (e.g. \cite{ito1998mckay}), but much less than in the 2-dimensional case.
+%This also ties in naturally with the recently proven (\cite{Yamagishi}) Craw-Ishii conjecture: \emph{every} projective crepant resolution of such a singular threefold $\C^3/\Gamma$ is isomorphic to the moduli space of $\theta$-stable $\Gamma$-constellations for a generic stability condition $\theta$.
+%
+%In ongoing work with Michele Graffeo, we are attempting to use Yamagishi's result to investigate the birational geometry of the three-dimensional singular variety $\C^3/H_{168}$, where $H_{168}$ is the \emph{Klein group} $\operatorname{PSL}(2, 7)$, acting on $\C^3$ as an irreducible three-dimensional representation. If successful, we aim to extend our work to cover other three-dimensional singularities.
+%	\subsection*{Noncommutative crepant resolutions}
+
+%	Craw has found connection between noncommutative crepant resolutions (in fact, generalisable to maximal modifiaction algebras) and quiver varieties in \cite{https://arxiv.org/pdf/2109.09565.pdf} He establishes (todo)
+
+%Another direction would be to investigate the birational geometry of three-dimensional singularities, in particular compound Du Val (i.e. cDV) singularities. One can again associate quivers (see e.g.\cite[6.2]{SteelePhD}) to such singularities, and at least in some cases quiver varieties (\cite{ItoNakajima}), the birational geometry of which depends on a specific wall-and-chamber structure. This seems quite similar to results like \cite[Theorem 4.3, Theorem 4.4]{WemyssSurvey}, which explains how maximal modification algebras associated to a cDV singularity determine the noncommutative resolutions and minimal models of the singularity. There are many interesting questions to investigate here -- for instance, one could ask whether punctual Hilbert schemes of cDV singularities can be identified with quiver varieties.
+%
+%\subsection*{Enumerative geometry}
+%I also have some experience with enumerative geometry, and especially its connections to Hodge theory -- in my Master's thesis, I made an extensive investigation of lines on cubic hypersurfaces, especially concerning the possible \emph{Eckardt points}, i.e. points $p$ on the hypersurface $X$ such that the space of lines in $X$ passing through $p$ has larger dimension than for a generic point $p$ of $X$. I tried to determine how many such points can be found on a cubic hypersurface, and I also explored various generalisations, leading to descriptions of the effective and nef cones of particular hypersurfaces containing certain complete intersections.\cite[Theorem 9.0.2]{MasterThesis} 
+%
+%There is also much research at SISSA -- where I currently work -- on enumerative geometry, virtual obstruction theories, and related problems. Though I have not yet had the opportunity to really use these things, I would be happy for the opportunity.
+
+%\todo{put in ending, adaptation to place here}
+%\vspace{2em}
+%Yours sincerely,
+%\vspace{1em}
+%
+%Søren Gammelgaard
+%\makeletterclosing
+\newpage
+\bibliographystyle{abbrv}
+\begingroup
+\setstretch{1.0}
+\bibliography{researchproposal}
+
+\endgroup
+
+
+\end{document}

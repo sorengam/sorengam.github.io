@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}
+
+\bibitem{CGGS}
+
+
+\bibitem{BelSche}
+G.~{Bellamy} and T.~{Schedler}.
+\newblock {Symplectic resolutions of quiver varieties and character varieties}.
+\newblock {\em arXiv e-prints}, page arXiv:1602.00164, Jan 2016.
+
+\bibitem{BKR}
+T.~Bridgeland, A.~King, and M.~Reid.
+\newblock The {McKay} correspondence as an equivalence of derived categories.
+\newblock {\em J. Am. Math. Soc.}, 14(3):535--554, 2001.
+
+\bibitem{BruzzoSala}
+U.~Bruzzo and F.~Sala.
+\newblock Framed sheaves on projective stacks.
+\newblock {\em Adv. Math.}, 272:20--95, 2015.
+\newblock With an appendix by Mattia Pedrini.
+
+\bibitem{CrawPaper}
+A.~Craw.
+\newblock Gale duality and the linearisation map for noncommutative crepant
+  resolutions, 2021.
+
+\bibitem{CGGS2}
+A.~Craw, S.~Gammelgaard, \'{A}d\'{a}m Gyenge, and B.~Szendr\H{o}i.
+\newblock Quot schemes for {Kleinian} orbifolds.
+\newblock {\em SIGMA: Symmetry, Integrability and Geometry: Methods and
+  Applications}, 17(99), 2021.
+
+\bibitem{CIK}
+A.~Craw, Y.~Ito, and J.~Karmazyn.
+\newblock Multigraded linear series and recollement.
+\newblock {\em Math. Z.}, 289(1-2):535--565, 2018.
+
+\bibitem{CrawYamagishi}
+A.~Craw and R.~Yamagishi.
+\newblock The le bruyn-procesi theorem and hilbert schemes, 2024.
+
+\bibitem{deCelisSekiya}
+{\'A}.~N. De~Celis and Y.~Sekiya.
+\newblock Flops and mutations for crepant resolutions of polyhedral
+  singularities.
+\newblock {\em Asian J. Math.}, 21(1):1--46, 2017.
+
+\bibitem{deHor}
+S.~{DeHority}.
+\newblock {Affinizations of Lorentzian Kac-Moody Algebras and Hilbert Schemes
+  of Points on K3 Surfaces}, July 2020.
+
+\bibitem{GG1}
+S.~Gammelgaard.
+\newblock Quiver varieties and framed sheaves on compactified kleinian
+  singularities, 2023.
+
+\bibitem{GG2}
+S.~Gammelgaard.
+\newblock Moduli spaces of framed sheaves on compactified kleinian
+  singularities, 2024.
+
+\bibitem{GamGye}
+S.~Gammelgaard and Ádám Gyenge.
+\newblock Noncommutative projective partial resolutions and quiver varieties,
+  2024.
+
+\bibitem{Itotrihedral}
+Y.~Ito.
+\newblock Crepant resolution of trihedral singularities.
+\newblock {\em Proc. Japan Acad., Ser. A}, 70(5):131--136, 1994.
+
+\bibitem{ItoOthers}
+Y.~Ito.
+\newblock Gorenstein quotient singularities of monomial type in dimension
+  three.
+\newblock {\em J. Math. Sci., Tokyo}, 2(2):419--440, 1995.
+
+\bibitem{ItoNakajima}
+Y.~Ito and H.~Nakajima.
+\newblock {McKay} correspondence and {Hilbert} schemes in dimension three.
+\newblock {\em Topology}, 39(6):1155--1191, 2000.
+
+\bibitem{KV}
+M.~Kapranov and E.~Vasserot.
+\newblock Kleinian singularities, derived categories and {Hall} algebras.
+\newblock {\em Math. Ann.}, 316(3):565--576, 2000.
+
+\bibitem{maiorana1}
+A.~Maiorana.
+\newblock Moduli of semistable sheaves as quiver moduli, 2018.
+
+\bibitem{maiorana2}
+A.~Maiorana.
+\newblock Linear data for framed sheaves via exceptional sequences, 2019.
+
+\bibitem{Nak02}
+H.~Nakajima.
+\newblock Geometric construction of representations of affine algebras.
+\newblock In {\em Proceedings of the {I}nternational {C}ongress of
+  {M}athematicians, {V}ol. {I} ({B}eijing, 2002)}, pages 423--438. Higher Ed.
+  Press, Beijing, 2002.
+
+\bibitem{NakaALE}
+H.~Nakajima.
+\newblock Sheaves on {ALE} spaces and quiver varieties.
+\newblock {\em Mosc. Math. J.}, 7(4):699--722, 767, 2007.
+
+\bibitem{nakajimaYusuke}
+Y.~Nakajima.
+\newblock Variations of git quotients and dimer combinatorics for toric
+  compound du val singularities, 2023.
+
+\bibitem{vdBergh}
+M.~van~den Bergh.
+\newblock Non-commutative crepant resolutions.
+\newblock In {\em The legacy of Niels Henrik Abel. Papers from the Abel
+  bicentennial conference, University of Oslo, Oslo, Norway, June 3--8, 2002},
+  pages 749--770. Berlin: Springer, 2004.
+
+\bibitem{VaVa}
+M.~Varagnolo and E.~Vasserot.
+\newblock On the {$K$}-theory of the cyclic quiver variety.
+\newblock {\em Internat. Math. Res. Notices}, (18):1005--1028, 1999.
+
+\bibitem{Yamagishi}
+R.~Yamagishi.
+\newblock {Singularities of Fano varieties of lines on singular cubic
+  fourfolds}.
+\newblock {\em Journal of the Mathematical Society of Japan}, pages 1 -- 22,
+  2021.
+
+\end{thebibliography}

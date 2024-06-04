@@ -6,6 +6,8 @@ I'm interested in moduli spaces, quivers, Grothendieck rings, Fano schemes, and 
 
 Before arriving in Trieste, I completed a DPhil in Mathematics at the University of Oxford.
 
+This website is under permanent construction.
+
 #### [Research](https://sorengam.github.io/research)
 
 #### [Publications](https://sorengam.github.io/papers)

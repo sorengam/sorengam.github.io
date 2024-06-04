@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: About my research.aux
+The style file: abbrv.bst
+Database file #1: researchproposal.bib
+You're missing a field name---line 835 of file researchproposal.bib
+ :  
+ :  %shorthand = {CGGS},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in CGGS
+Warning--empty author in CGGS
+Warning--empty title in CGGS
+Warning--empty journal in CGGS
+Warning--empty year in CGGS
+Warning--there's a number but no volume in VaVa
+You've used 25 entries,
+            2118 wiz_defined-function locations,
+            656 strings with 6973 characters,
+and the built_in function-call counts, 7470 in all, are:
+= -- 758
+> -- 255
+< -- 4
++ -- 105
+- -- 78
+* -- 445
+:= -- 1168
+add.period$ -- 67
+call.type$ -- 25
+change.case$ -- 113
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 302
+empty$ -- 656
+format.name$ -- 78
+if$ -- 1612
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 16
+newline$ -- 118
+num.names$ -- 48
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 89
+quote$ -- 0
+skip$ -- 269
+stack$ -- 0
+substring$ -- 512
+swap$ -- 83
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 6
+while$ -- 78
+width$ -- 27
+write$ -- 247
+(There was 1 error message)
