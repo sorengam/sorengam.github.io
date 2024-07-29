@@ -1,6 +1,6 @@
 ### Publications
 
-I hae been a coauthor on two published scientific papers.
+I have been a coauthor on two published scientific papers, and in addition I have three preprints available on arXiv.
 
 Both were co-written with Ádám Gyenge, Alastair Craw, and Balázs Szendrői.
 
