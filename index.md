@@ -7,7 +7,7 @@ I'm interested in birational geometry, moduli spaces, quivers, Grothendieck ring
 
 Before arriving in Trieste, I completed a DPhil in Mathematics at the University of Oxford.
 
-This website is under permanent construction.
+This website is permanently under construction.
 
 Contact: sorengammelgaard95[at]gmail[dot]com
 
