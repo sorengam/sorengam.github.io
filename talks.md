@@ -21,5 +21,9 @@ I have given several talks about my research:
 
 - October 2024: at the Budapest University of Technology and Economics (Budapesti Műszaki és Gazdaságtudományi Egyetem)
 
+- May 2025: at the Trino seminar, Trieste
 
+- June 2025: at the SQUARE conference, Trento
+
+- July 2025: at the Humboldt-Universität Berlin
 
