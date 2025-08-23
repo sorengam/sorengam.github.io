@@ -13,8 +13,8 @@ I have been a coauthor on three published scientific papers, and in addition I h
 ### Preprints:
 
 
-1. \*Moduli spaces of framed sheaves on compactified Kleinian singularities. Available online [here](https://arxiv.org/abs/2312.05960).
+1. Moduli spaces of framed sheaves on compactified Kleinian singularities. Available online [here](https://arxiv.org/abs/2312.05960).
    This preprint constructs the spaces of framed sheaves mentioned in the previous preprint as quasiprojective schemes.
-2. \*Noncommutative projective partial resolutions and quiver varieties. Co-authored with Ádám Gyenge. Available online [here](https://arxiv.org/abs/2406.00709).
+2. Noncommutative projective partial resolutions and quiver varieties. Co-authored with Ádám Gyenge. Available online [here](https://arxiv.org/abs/2406.00709).
    This preprint generalises much of the above work, constructing a class of noncommutative projective surfaces and investigating the spaces of framed sheaves on them.
-3. \*Quiver Schemes for Nongeneric Stability and Cornering. Co-authored with Lukas Bertsch. Available online [here](https://arxiv.org/abs/2505.12156) In this preprint, we investigate the infinitesimal properties of quiver schemes in many cases, inclusing Nakajima quiver varieties.
+3. Quiver Schemes for Nongeneric Stability and Cornering. Co-authored with Lukas Bertsch. Available online [here](https://arxiv.org/abs/2505.12156) In this preprint, we investigate the infinitesimal properties of quiver schemes in many cases, inclusing Nakajima quiver varieties.
