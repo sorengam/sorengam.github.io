@@ -9,7 +9,7 @@ Before arriving in Trieste, I completed a DPhil in Mathematics at the University
 
 This website is permanently under construction.
 
-Contact: sorengammelgaard95[at]gmail[dot]com
+Contact: sorengammelgaard95[at]gmail[dot]com or gmmsrn[at]unife.it
 
 #### [Research](https://sorengam.github.io/research)
 
