@@ -3,7 +3,7 @@ I'm a mathematician primarily working in algebraic geometry, currently at the Un
 Previously I worked at the [Scuola Internazionale Superiore di Studi Avanzati](sissa.it) under a SISSA Mathematical Fellowship.
 
 
-I'm interested in birational geometry, moduli spaces, quivers, Grothendieck rings, Fano schemes, and Hodge theory.
+I'm interested in birational geometry, moduli spaces, quivers, Grothendieck rings, Hall algebras, and Fano schemes. 
 
 Before arriving in Trieste, I completed a DPhil in Mathematics at the University of Oxford.
 
