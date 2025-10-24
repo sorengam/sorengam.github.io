@@ -6,7 +6,7 @@ I have been a coauthor on three published scientific papers, and in addition I h
 
 2. Quot Schemes for Kleinian Orbifolds* in SIGMA 17 (2021). Available online [here](http://sigma-journal.com/2021/099/sigma21-099.pdf), co-written with Ádám Gyenge, Alastair Craw, and Balázs Szendrői.
 
-3. Quiver Varieties and Framed Sheaves on Compactified Kleinian Singularities. Available online [here](https://www.worldscientific.com/doi/epdf/10.1142/S0219498825503402) in Journal of Algebra and its Applications., as a preprint[here](https://arxiv.org/pdf/2306.09054) 
+3. Quiver Varieties and Framed Sheaves on Compactified Kleinian Singularities. Available online [here](https://www.worldscientific.com/doi/epdf/10.1142/S0219498825503402) in Journal of Algebra and its Applications., as a preprint[here](https://arxiv.org/pdf/2306.09054). 
    This is largely a cleaned-up version of some results from my DPhil thesis, giving a set-theoretical bijection between (the closed points of) certain Nakajima quiver varieties and sets of framed sheaves on stacks compactifying Kleinian singularities.
 
 
