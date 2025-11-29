@@ -14,10 +14,10 @@ Currently, I'm more interested in varieties that are quotients of the plane by c
 
 This research forms most of my DPhil work.
 
-Since then, I have extended this work in various ways. Currently, I am trying to investigate three-dimensional singularities.
+Since then, I have extended this work in various ways. Currently, I am trying to investigate three-dimensional singularities with quiver techniques, and trying to compute the motives of Hilbert schemes of singular surfaces.
 
 
-##### A more technical explanation of my current research
+##### A more technical explanation of my research (somewhat outdated)
 can be found [here](https://sorengam.github.io/research_detailed).
 
 ##### My completed DPhil thesis can be found [here](DPhilThesis).
