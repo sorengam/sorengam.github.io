@@ -1,5 +1,5 @@
 
-I'm a mathematician primarily working in algebraic geometry, currently at the University of Ferrara under Professor Alex Massarenti.
+I'm a mathematician primarily working in algebraic geometry, until recently working at the University of Ferrara under Professor Alex Massarenti.
 Previously I worked at the [Scuola Internazionale Superiore di Studi Avanzati](sissa.it) under a SISSA Mathematical Fellowship.
 
 
