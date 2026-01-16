@@ -1,11 +1,12 @@
 
-I'm a mathematician primarily working in algebraic geometry, until recently working at the University of Ferrara under Professor Alex Massarenti.
-Previously I worked at the [Scuola Internazionale Superiore di Studi Avanzati](sissa.it) under a SISSA Mathematical Fellowship.
+I'm a mathematician primarily working in algebraic geometry, working at the University of Milan under Professor Roberto Svaldi.
+
+Previously I worked at the University of Ferrara under Professor Alex Massarenti, and before that at [Scuola Internazionale Superiore di Studi Avanzati](sissa.it) under a SISSA Mathematical Fellowship.
 
 
 I'm interested in birational geometry, moduli spaces, quivers, Grothendieck rings, Hall algebras, and Fano schemes. 
 
-Before arriving in Trieste, I completed a DPhil in Mathematics at the University of Oxford.
+Before moving to Italy, I completed a DPhil in Mathematics at the University of Oxford.
 
 This website is permanently under construction.
 
