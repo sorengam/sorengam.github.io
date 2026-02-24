@@ -10,7 +10,7 @@ Before moving to Italy, I completed a DPhil in Mathematics at the University of 
 
 This website is permanently under construction.
 
-Contact: sorengammelgaard95[at]gmail[dot]com or gmmsrn[at]unife.it
+Contact: sorengammelgaard95[at]gmail[dot]com or soren.gammelgaard[at]unimi.it
 
 #### [Research](https://sorengam.github.io/research)
 
