@@ -8,7 +8,7 @@ I'm interested in birational geometry, moduli spaces, quivers, Grothendieck ring
 
 Before moving to Italy, I completed a DPhil in Mathematics at the University of Oxford.
 
-This website is permanently under construction.
+This website is permanently under construction. (Last update: November 2025.)
 
 Contact: sorengammelgaard95[at]gmail[dot]com or soren.gammelgaard[at]unimi.it
 
