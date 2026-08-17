@@ -2,11 +2,11 @@
 
 ## 
 
-# Lecture notes: \[Notes](notes.pdf)
+#### Lecture notes: [Notes](notes.pdf)
 
 ## 
 
-# Exercises: \[Exercises](exercises.pdf)
+#### Exercises: [Exercises](exercises.pdf)
 
 ## 
 
