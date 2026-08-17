@@ -2,9 +2,9 @@
 
 
 
-Lecture notes: Click \[here](https://sorengam.github.io/exercises)
+Lecture notes: Click \[here](notes)
 
 
 
-Exercises: Click \[here](https://sorengam.github.io/exercises)
+Exercises: Click \[here](exercises)
 
