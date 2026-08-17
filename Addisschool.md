@@ -1,4 +1,4 @@
-## Materials for the Addis Abeba Summer School, 2026:
+## Materials for the Addis Abeba Summer School:
 
 ## 
 
