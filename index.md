@@ -18,6 +18,8 @@ Contact: sorengammelgaard95[at]gmail[dot]com or soren.gammelgaard[at]unimi.it
 
 #### [Teaching](teaching)
 
+## [Addis Ababa school](Addisschool)
+
 #### [Talks](talks)
 
 #### [CV](CV)
