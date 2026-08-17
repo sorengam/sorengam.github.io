@@ -1,10 +1,12 @@
 ## Materials for the Addis Abeba Summer School:
 
+## 
 
+## Lecture notes: \[Notes](notes.pdf)
 
-Lecture notes: Click \[here](notes)
+## 
 
+## Exercises: \[Exercises](exercises.pdf)
 
-
-Exercises: Click \[here](exercises)
+## 
 
